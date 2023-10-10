@@ -1,0 +1,9 @@
+optimum
+auto-gptq
+
+torch 
+transformers 
+Flask==2.2.2
+flasgger==0.9.5
+Werkzeug==2.2.2
+flask-restx==1.0.3
